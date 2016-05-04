@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WhatToCook:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WhatToCook_jar</output-path>
+    <root id="archive" name="WhatToCook.jar">
+      <element id="module-output" name="WhatToCook" />
+    </root>
+  </artifact>
+</component>
